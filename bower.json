@@ -1,0 +1,10 @@
+{
+  "name": "tagmanager",
+  "version": "2.4.2",
+  "main": "bootstrap-tagmanager.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
